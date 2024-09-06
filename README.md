@@ -42,7 +42,7 @@ cd ../..
 ```
 
 ## Try A Toy
-For convenience, here we offer an example *ff7ab74a67a443e3bda61e69577f4e80* with two retargeted animation files. you can directly run the following scripts to get two stylized animations. 
+For convenience, here we offer an example *ff7ab74a67a443e3bda61e69577f4e80* with two retargeted animation files. you can directly run the following scripts to generate two stylized animations. 
 ```sh
 dataset
   └── AnimateDrawings
