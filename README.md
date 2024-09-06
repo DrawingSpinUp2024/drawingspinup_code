@@ -83,6 +83,8 @@ python gif_writer.py --uid ff7ab74a67a443e3bda61e69577f4e80
 cd ..
 ```
 
+![image](https://github.com/DrawingSpinUp2024/drawingspinup2024.github.io/blob/main/results/gallery/ff7ab74a67a443e3bda61e69577f4e80.gif)
+
 ## Step by Step
 ### Step-1: Contour Removal
 We use [FFC-ResNet](https://github.com/advimman/lama) as the backbone to predict the contour region of a given character drawing. 
